@@ -34,6 +34,7 @@
             />
 
             <h2>{{ league }}</h2>
+            
         </div>
     </div>
 </template>
